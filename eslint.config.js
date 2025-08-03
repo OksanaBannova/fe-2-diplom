@@ -25,5 +25,15 @@ export default defineConfig([
     rules: {
       'no-unused-vars': ['error', { varsIgnorePattern: '^[A-Z_]' }],
     },
+
+  test: /\.m?js/,
+  type: "javascript/auto",
+},
+{
+  test: /\.m?js/,
+  resolve: {
+    fullySpecified: false,
   },
+},
 ])
+
