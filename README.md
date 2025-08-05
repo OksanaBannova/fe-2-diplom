@@ -1,5 +1,7 @@
 [GitHub Pages](https://oksanabannova.github.io/fe-2-diplom/)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/b3d93hp9mb71y6o5?svg=true)](https://ci.appveyor.com/project/OksanaBannova/fe-2-diplom)
+
 # Дипломная работа к профессии Frontend-разработчик «Система бронирования ж/д билетов»
 
 ### Краткое описание задачи дипломной работы
