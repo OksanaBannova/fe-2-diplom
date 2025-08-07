@@ -4,7 +4,7 @@ import queryString from "query-string";
 export const api = createApi({
   reducerPath: "api",
   baseQuery: fetchBaseQuery({
-    baseUrl: "https://students.netoservices.ru/fe-diplom/routes/",
+    baseUrl: "https://students.netoservices.ru/fe-diplom/",
   }),
   endpoints: (builder) => ({
     getCityesName: builder.query({
