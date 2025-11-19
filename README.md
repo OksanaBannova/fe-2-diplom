@@ -1,4 +1,4 @@
-[GitHub Pages](https://npm.pkg.github.com/)
+[GitHub Pages]()
 
 [![Build status](https://ci.appveyor.com/api/projects/status/b3d93hp9mb71y6o5?svg=true)](https://ci.appveyor.com/project/OksanaBannova/fe-2-diplom)
 
